@@ -29,6 +29,7 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 ### Affiliations
 | Duration      | Affiliation |
 | ----------- | ----------- |
+
 | 2017–present | Centre for Language Resources and Technologies, University of Ljubljana, Slovenia |
 | 2014–present      | Faculty of Arts, University of Ljubljana, Slovenia |
 | 2017–present   | Faculty of Computer and Information Science, University of Ljubljana, Slovenia |
