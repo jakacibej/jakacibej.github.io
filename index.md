@@ -27,8 +27,6 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 - 27th European Summer School in Logic, Language and Information (ESSLLI) 2015, Barcelona, Spain [\[LINK\]](http://www.esslli2015.org/)
 
 ### Affiliations
-| Duration      | Affiliation |
-
 | 2017–present | Centre for Language Resources and Technologies, University of Ljubljana, Slovenia |
 | 2014–present      | Faculty of Arts, University of Ljubljana, Slovenia |
 | 2017–present   | Faculty of Computer and Information Science, University of Ljubljana, Slovenia |
