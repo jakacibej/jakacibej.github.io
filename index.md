@@ -39,31 +39,34 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 
 #### Projects funded by the Slovenian Research Agency (ARRS)
 
-| Duration      | Description | Link |
+| Duration      | Title | Website |
 | 2022–present      | MEZZANINE - Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
 | 2017–2020      | NSSSS - New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
 | 2017–2020      | KOLOS - Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
 | 2017–2020      | FRENK - Resources, Methods, and Tools for the Understanding, Identification, and Classification of Various Forms of Socially Unacceptable Discourse in the Information Society (J7-8280) | [\[LINK\]](https://nl.ijs.si/frenk/english/) |
 | 2016–2017 | KAS - Slovene Scientific Texts: Resources and Description (J6-7094) | [\[LINK\]](https://nl.ijs.si/kas/english/) |
-| 2014–2018 | JANES - Resources, Tools and Methods for the Research of Nonstandard Internet Slovene (J6―6842) | [\[LINK\]](https://nl.ijs.si/janes/english/) |
+| 2014–2018 | JANES - Resources, Tools and Methods for the Research of Nonstandard Internet Slovene (J6-6842) | [\[LINK\]](https://nl.ijs.si/janes/english/) |
 
 
 <!--
 #### Projects funded by the Ministry of Culture of the Republic of Slovenia
-* SEMTEH ()
-* SLOKIT ()
-* SLED ()
-* RSDO ()
-* Propomenke ()
+| Duration      | Title | Website |
+| 2023–present      | SEMTEH | [\[LINK\]]() |
+| 20xx–      | SLOKIT | [\[LINK\]]() |
+| 20xx–      | SLED | [\[LINK\]]() |
+| 2020–2023      | RSDO | [\[LINK\]]() |
+| 2017–2018      | Propomenke | [\[LINK\]]() |
 
+#### Projects funded by the University of Ljubljana
 * Online Notes ()
 
 #### CLARIN.SI Projects
-* Sloleks
+* Sloleks - accentuation
 * LIST
 * SI-NLI
 
 ### International Projects
+
 #### Horizon 2020 Projects
 * ELEXIS ()
 * MIME ()
