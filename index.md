@@ -63,27 +63,33 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 
 #### CLARIN.SI Projects
 
-| Duration      | Title | Website |
+| Duration | Title | Website |
 | 2022 | Compiling the Slovene SI-NLI Dataset for Natural Language Inference | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Ustvarjanje_slovenske_mnozice_SI-NLI_za_sklepanje_o_pomenskem_sosledju_besedil) |
 | 2018 | Accentuation of Sloleks | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Naglasevanje_leksikona_Sloleks) |
-| 2018   | LIST - A Tool for an Effective Analysis of Slovene Corpora | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Orodje_za_ucinkovito_analizo_slovenskih_korpusov) |
+| 2018 | LIST - A Tool for an Effective Analysis of Slovene Corpora | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Orodje_za_ucinkovito_analizo_slovenskih_korpusov) |
 
-<!--
 ### International Projects
 
 #### Horizon 2020 Projects
-* ELEXIS ()
-* MIME ()
+
+| Duration      | Title | Website |
+| 2018–2022 | ELEXIS – European Lexicographic Infrastructure | [\[LINK\]](https://elex.is/) |
+| 2016–2018 | MIME - Mobility and Inclusion in Multilingual Europe | [\[LINK\]](https://www.mime-project.org/) |
 
 #### Bilateral Projects
-* Slovene-Indian Bilateral Project
-* Slovene-Croatian Bilateral Project
+
+| Duration      | Title | Website |
+| 2023–present | SI-HR: Automatic Identification of Semantic Relations in Figurative Context in Croatian and Slovene | - |
+| 2021–present | SI-IN: Cross-lingual Knowledge Transfer for Social Media Analysis in Less-Resourced Languages During COVID-19 | - |
 
 ### COST Actions
-* UniDive
-* eNetCollect (MC member substitute for Slovenia)
-* PARSEME (unofficial)
 
+| Duration  | Title | Website |
+| 2023–present | UniDive - Universality, diversity and idiosyncrasy in language technology (COST Action CA21167) | [\[LINK\]](https://www.cost.eu/actions/CA21167/) |
+| 2017–2021 | EnetCollect - The European Network for Combining Language Learning with Crowdsourcing Techniques (COST Action CA16105) | [\[LINK\]](http://enetcollect.eurac.edu/) |
+| 2017 | PARSEME - Parsing and Multi-Word Expressions. Towards Linguistic Precision and Computational Efficiency in Natural Language Processing (COST Action IC1207) | [\[LINK\]](https://typo.uni-konstanz.de/parseme/)
+
+<!--
 ### Reviewer
 * International Journal of Lexicography
 * Slovenščina 2.0
