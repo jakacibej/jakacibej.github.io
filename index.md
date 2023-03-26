@@ -34,12 +34,11 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 | 2017–present   | Jožef Stefan Institute, Ljubljana, Slovenia        |
 | 2017–2018   | Trojina, Institute for Applied Slovene Studies, Ljubljana, Slovenia        |
 
-
 ### National projects
 
 #### Projects funded by the Slovenian Research Agency (ARRS)
 
-| Duration      | Title | Website |
+| **Duration**      | **Title** | **Website** |
 | 2022–present      | MEZZANINE - Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
 | 2017–2020      | NSSSS - New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
 | 2017–2020      | KOLOS - Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
@@ -49,7 +48,7 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 
 #### Projects funded by the Ministry of Culture of the Republic of Slovenia
 
-| Duration      | Title | Website |
+| **Duration**      | **Title** | **Website** |
 | 2023–present      | SEMTEH - Interconnected Knowledge Databases for Semantic Technologies | - |
 | 2022–2023      | SLOKIT - CLARIN.SI Upgrade: Corpus Presenter and Text Analyzer | [\[LINK\]](https://slokit.ijs.si/) |
 | 2020–2023      | RSDO - Development of Slovene in a Digital Environment | [\[LINK\]](https://rsdo.slovenscina.eu/en) |
@@ -58,12 +57,12 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 
 #### Projects funded by the University of Ljubljana
 
-| Duration      | Title | Website |
+| **Duration**      | **Title** | **Website** |
 | 2021–present   | ON - Online Notes: Upgrading a Machine Translation System for Learning Communities (and Special Needs Students) |  [\[LINK\]](https://www.cjvt.si/online-notes/) |
 
 #### CLARIN.SI Projects
 
-| Duration | Title | Website |
+| **Duration** | **Title** | **Website** |
 | 2022 | Compiling the Slovene SI-NLI Dataset for Natural Language Inference | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Ustvarjanje_slovenske_mnozice_SI-NLI_za_sklepanje_o_pomenskem_sosledju_besedil) |
 | 2018 | Accentuation of Sloleks | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Naglasevanje_leksikona_Sloleks) |
 | 2018 | LIST - A Tool for an Effective Analysis of Slovene Corpora | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Orodje_za_ucinkovito_analizo_slovenskih_korpusov) |
@@ -72,42 +71,41 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 
 #### Horizon 2020 Projects
 
-| Duration      | Title | Website |
+| **Duration**      | **Title** | **Website** |
 | 2018–2022 | ELEXIS – European Lexicographic Infrastructure | [\[LINK\]](https://elex.is/) |
 | 2016–2018 | MIME - Mobility and Inclusion in Multilingual Europe | [\[LINK\]](https://www.mime-project.org/) |
 
 #### Bilateral Projects
 
-| Duration      | Title | Website |
+| **Duration**      | **Title** | **Website** |
 | 2023–present | SI-HR: Automatic Identification of Semantic Relations in Figurative Context in Croatian and Slovene | - |
 | 2021–present | SI-IN: Cross-lingual Knowledge Transfer for Social Media Analysis in Less-Resourced Languages During COVID-19 | - |
 
-### COST Actions
+#### COST Actions
 
-| Duration  | Title | Website |
+| **Duration**  | **Title** | **Website** |
 | 2023–present | UniDive - Universality, diversity and idiosyncrasy in language technology (COST Action CA21167) | [\[LINK\]](https://www.cost.eu/actions/CA21167/) |
 | 2017–2021 | EnetCollect - The European Network for Combining Language Learning with Crowdsourcing Techniques (COST Action CA16105) | [\[LINK\]](http://enetcollect.eurac.edu/) |
 | 2017 | PARSEME - Parsing and Multi-Word Expressions. Towards Linguistic Precision and Computational Efficiency in Natural Language Processing (COST Action IC1207) | [\[LINK\]](https://typo.uni-konstanz.de/parseme/)
 
-## Other Research Activities
+### Other Research Activities
 
-### Selected Contributions to Slovene Language Resources
+#### Selected Contributions to Slovene Language Resources
 
-| Resource  | Role | Link |
+| **Resource**  | **Role** | **Link** |
 | Sloleks Morphological Lexicon of Slovene | Lead Editor | [\[LINK\]](https://viri.cjvt.si/sloleks/eng/) |
 | The Thesaurus of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/sopomenke/eng/) |
 | Collocations Dictionary of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/kolokacije/eng/) |
 | Gigafida Corpus of Written Standard Slovene | Co-editor  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
 
-### Reviewer
+#### Reviewer
 * International Journal of Lexicography
 * Slovenščina 2.0
 * STRIDON: Journal of Studies in Translation and Interpreting
+* Language Technologies and Digital Humanities Conference (JT-DH)
+* Language Resources and Evaluation Conference (LREC)
 
 <!--
-### Conferences
-JT-DH 2022
-
 ### Publications
 
 [Link to COBISS]
