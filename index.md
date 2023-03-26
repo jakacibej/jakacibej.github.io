@@ -34,23 +34,21 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 | 2017–present   | Jožef Stefan Institute, Ljubljana, Slovenia        |
 | 2017–2018   | Trojina, Institute for Applied Slovene Studies, Ljubljana, Slovenia        |
 
-<!--
-### National projects
-| Duration      | Description | Link |
-| ----------- | ----------- | ----------- |
-| 2022–      | MEZZANINE - Temeljne raziskave za razvoj govornih virov in tehnologij za slovenščino       | Title       |
-| Paragraph   | Text        | Title       |
 
+### National projects
 
 #### Projects funded by the Slovenian Research Agency (ARRS)
-* MEZZANINE - Temeljne raziskave za razvoj govornih virov in tehnologij za slovenščino
-* NSSSS ()
-* KOLOS ()
-* FRENK ()
-* KAS ()
-* JANES Ekspres (2015) https://nl.ijs.si/janes/dogodki/janes-ekspres/
-* JANES (2014-2018) https://nl.ijs.si/janes/english/
 
+| Duration      | Description | Link |
+| 2022–present      | MEZZANINE - Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
+| 2017–2020      | NSSSS - New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
+| 2017–2020      | KOLOS - Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
+| 2017–2020      | FRENK - Resources, Methods, and Tools for the Understanding, Identification, and Classification of Various Forms of Socially Unacceptable Discourse in the Information Society (J7-8280) | [\[LINK\]](https://nl.ijs.si/frenk/english/) |
+| 2016–2017 | KAS - Slovene Scientific Texts: Resources and Description (J6-7094) | [\[LINK\]](https://nl.ijs.si/kas/english/) |
+| 2014–2018 | JANES - Resources, Tools and Methods for the Research of Nonstandard Internet Slovene (J6―6842) | [\[LINK\]](https://nl.ijs.si/janes/english/) |
+
+
+<!--
 #### Projects funded by the Ministry of Culture of the Republic of Slovenia
 * SEMTEH ()
 * SLOKIT ()
