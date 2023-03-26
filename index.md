@@ -89,12 +89,22 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 | 2017–2021 | EnetCollect - The European Network for Combining Language Learning with Crowdsourcing Techniques (COST Action CA16105) | [\[LINK\]](http://enetcollect.eurac.edu/) |
 | 2017 | PARSEME - Parsing and Multi-Word Expressions. Towards Linguistic Precision and Computational Efficiency in Natural Language Processing (COST Action IC1207) | [\[LINK\]](https://typo.uni-konstanz.de/parseme/)
 
-<!--
+## Other Research Activities
+
+### Selected Contributions to Slovene Language Resources
+
+| Resource  | Role | Link |
+| Sloleks Morphological Lexicon of Slovene | Lead Editor | [\[LINK\]](https://viri.cjvt.si/sloleks/eng/) |
+| The Thesaurus of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/sopomenke/eng/) |
+| Collocations Dictionary of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/kolokacije/eng/) |
+| Gigafida Corpus of Written Standard Slovene | Co-editor  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
+
 ### Reviewer
 * International Journal of Lexicography
 * Slovenščina 2.0
 * STRIDON: Journal of Studies in Translation and Interpreting
 
+<!--
 ### Conferences
 JT-DH 2022
 
