@@ -47,24 +47,28 @@ IPA: /ˈjaːka ʧiˈbɛːɪ/ | SAMPA: /"ja:ka tSi"bE:I/ | English Phonetic Spell
 | 2016–2017 | KAS - Slovene Scientific Texts: Resources and Description (J6-7094) | [\[LINK\]](https://nl.ijs.si/kas/english/) |
 | 2014–2018 | JANES - Resources, Tools and Methods for the Research of Nonstandard Internet Slovene (J6-6842) | [\[LINK\]](https://nl.ijs.si/janes/english/) |
 
-
-<!--
 #### Projects funded by the Ministry of Culture of the Republic of Slovenia
+
 | Duration      | Title | Website |
-| 2023–present      | SEMTEH | [\[LINK\]]() |
-| 20xx–      | SLOKIT | [\[LINK\]]() |
-| 20xx–      | SLED | [\[LINK\]]() |
-| 2020–2023      | RSDO | [\[LINK\]]() |
-| 2017–2018      | Propomenke | [\[LINK\]]() |
+| 2023–present      | SEMTEH - Interconnected Knowledge Databases for Semantic Technologies | - |
+| 2022–2023      | SLOKIT - CLARIN.SI Upgrade: Corpus Presenter and Text Analyzer | [\[LINK\]](https://slokit.ijs.si/) |
+| 2020–2023      | RSDO - Development of Slovene in a Digital Environment | [\[LINK\]](https://rsdo.slovenscina.eu/en) |
+| 2021–2022      | SLED - Monitor Corpus of Slovene and Monitoring Language Resources | [\[LINK\]](https://sled.ijs.si/) |
+| 2017–2018      | Propomenke - The Thesaurus of Modern Slovene: By the Community for the Community | [\[LINK\]](https://www.cjvt.si/promocija-sopomenk/) |
 
 #### Projects funded by the University of Ljubljana
-* Online Notes ()
+
+| Duration      | Title | Website |
+| 2021–present   | ON - Online Notes: Upgrading a Machine Translation System for Learning Communities (and Special Needs Students) |  [\[LINK\]](https://www.cjvt.si/online-notes/) |
 
 #### CLARIN.SI Projects
-* Sloleks - accentuation
-* LIST
-* SI-NLI
 
+| Duration      | Title | Website |
+| 2022 | Compiling the Slovene SI-NLI Dataset for Natural Language Inference | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Ustvarjanje_slovenske_mnozice_SI-NLI_za_sklepanje_o_pomenskem_sosledju_besedil) |
+| 2018 | Accentuation of Sloleks | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Naglasevanje_leksikona_Sloleks) |
+| 2018   | LIST - A Tool for an Effective Analysis of Slovene Corpora | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Orodje_za_ucinkovito_analizo_slovenskih_korpusov) |
+
+<!--
 ### International Projects
 
 #### Horizon 2020 Projects
