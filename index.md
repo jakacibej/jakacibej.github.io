@@ -38,6 +38,7 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 #### Projects funded by the Slovenian Research and Innovation Agency (ARIS)
 
 | **Duration**      | **Title** | **Website** |
+| 2024–present      | LLM4DH – Large Language Models for Digital Humanities (GC-0002) | [\[LINK\]](https://www.cjvt.si/llm4dh/) |
 | 2022–present      | MEZZANINE – Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
 | 2017–2020      | NSSSS – New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
 | 2017–2020      | KOLOS – Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
@@ -48,11 +49,15 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 #### Projects funded by the Ministry of Culture of the Republic of Slovenia
 
 | **Duration**      | **Title** | **Website** |
-| 2023–present      | SEMTEH – Interconnected Knowledge Databases for Semantic Technologies | - |
+| 2023–2023      | SEMTEH – Interconnected Knowledge Databases for Semantic Technologies | - |
 | 2022–2023      | SLOKIT – CLARIN.SI Upgrade: Corpus Presenter and Text Analyzer | [\[LINK\]](https://slokit.ijs.si/) |
 | 2020–2023      | RSDO – Development of Slovene in a Digital Environment | [\[LINK\]](https://rsdo.slovenscina.eu/en) |
 | 2021–2022      | SLED – Monitor Corpus of Slovene and Monitoring Language Resources | [\[LINK\]](https://sled.ijs.si/) |
 | 2017–2018      | Propomenke – The Thesaurus of Modern Slovene: By the Community for the Community | [\[LINK\]](https://www.cjvt.si/promocija-sopomenk/) |
+
+### Projects funded by the Ministry of Higher Education, Science and Innovation of the Republic of Slovenia
+| **Duration**      | **Title** | **Website** |
+| 2023–present      | PoVeJMo – Adaptive Natural Language Processing with Large Language Models | [\[LINK\]](https://www.cjvt.si/povejmo/en/project/) |
 
 #### Projects funded by the University of Ljubljana
 
@@ -97,9 +102,20 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 | Collocations Dictionary of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/kolokacije/eng/) |
 | Gigafida Corpus of Written Standard Slovene | Co-editor  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
 
-<!--#### Datasets
+#### Datasets
+A selected list of datasets I've authored or contributed to is shown below. Please check [CLARIN.SI](https://www.clarin.si/repository/xmlui/discover?filtertype=author&filter_relational_operator=equals&filter=%C4%8Cibej%2C+Jaka) for more.
+
 | **Dataset** | **Link** |
-|  | [\[LINK\]]() |-->
+| Open Slovene WordNet OSWN 1.0 | [\[LINK\]](http://hdl.handle.net/11356/1888) |
+| Parallel sense-annotated corpus ELEXIS-WSD 1.3 | [\[LINK\]](http://hdl.handle.net/11356/2029) |
+| Slovene Natural Language Inference Dataset SI-NLI | [\[LINK\]](http://hdl.handle.net/11356/1707) |
+| English translation of the Slovene Natural Language Inference Dataset SI-NLI-en 1.0 | [\[LINK\]](http://hdl.handle.net/11356/1934) |
+| "Choice of plausible alternatives" datasets in South Slavic dialects DIALECT-COPA | [\[LINK\]](http://hdl.handle.net/11356/1766) |
+| Slovene instruction-following dataset for large language models GaMS-Instruct-GEN 1.0 | [\[LINK\]](http://hdl.handle.net/11356/1971) |
+| List of word relations from the Sloleks 2.0 lexicon 1.1 | [\[LINK\]](http://hdl.handle.net/11356/1986) |
+| Dataset of Slovene word formation trees ArboSloleks 1.0 | [\[LINK\]](http://hdl.handle.net/11356/2000) |
+| Dataset of Annotated Slovene Words with Pre-Consonant L ILS 1.0 | [\[LINK\]](http://hdl.handle.net/11356/2025) |
+| Lists of Slovene accentuated units SNES 1.0 | [\[LINK\]](http://hdl.handle.net/11356/2003) | 
 
 #### Reviewer
 * International Journal of Lexicography
@@ -109,7 +125,7 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 
 * Language Technologies and Digital Humanities Conference (JT-DH) - 2022, 2024
 * Language Resources and Evaluation Conference (LREC) - 2024
-* Digital Inclusivity (DIGIN) - 2024
+* Digital Inclusivity (DIGIN) - 2024, 2025
 
 * 1st UniDive Training School (Technical University of Moldova, Chișinău, Moldova)
 * 2nd UniDive Training School (Yerevan State University, Yerevan, Armenia)
