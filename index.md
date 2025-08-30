@@ -55,7 +55,8 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 | 2021–2022      | SLED – Monitor Corpus of Slovene and Monitoring Language Resources | [\[LINK\]](https://sled.ijs.si/) |
 | 2017–2018      | Propomenke – The Thesaurus of Modern Slovene: By the Community for the Community | [\[LINK\]](https://www.cjvt.si/promocija-sopomenk/) |
 
-### Projects funded by the Ministry of Higher Education, Science and Innovation of the Republic of Slovenia
+#### Projects funded by the Ministry of Higher Education, Science and Innovation of the Republic of Slovenia
+
 | **Duration** | **Title** | **Website** |
 | 2023–present | PoVeJMo – Adaptive Natural Language Processing with Large Language Models | [\[LINK\]](https://www.cjvt.si/povejmo/en/project/) |
 
