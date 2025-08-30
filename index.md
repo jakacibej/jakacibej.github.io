@@ -106,8 +106,11 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 * Slovenščina 2.0
 * Jezikoslovni zapiski
 * STRIDON: Journal of Studies in Translation and Interpreting
-* Language Technologies and Digital Humanities Conference (JT-DH 2022, 2024)
-* Language Resources and Evaluation Conference (LREC)
+
+* Language Technologies and Digital Humanities Conference (JT-DH) - 2022, 2024
+* Language Resources and Evaluation Conference (LREC) - 2024
+* Digital Inclusivity (DIGIN) - 2024
+
 * 1st UniDive Training School (Technical University of Moldova, Chișinău, Moldova)
 * 2nd UniDive Training School (Yerevan State University, Yerevan, Armenia)
 
