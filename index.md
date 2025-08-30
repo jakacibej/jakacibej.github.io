@@ -5,7 +5,7 @@ Last update: 2025-08-30
 ### About me
 I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus and computational linguistics along with natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data.
 
-[SICRIS](https://cris.cobiss.net/ecris/si/sl/researcher/42448) | [Google Scholar](https://scholar.google.com/citations?user=n56k8E0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-3037-6848) | [LinkedIn](https://si.linkedin.com/in/jaka-%C4%8Dibej-18575585) | [ResearchGate](https://www.researchgate.net/profile/Jaka-Cibej-2)
+<!--[SICRIS](https://cris.cobiss.net/ecris/si/sl/researcher/42448) | [Google Scholar](https://scholar.google.com/citations?user=n56k8E0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-3037-6848) | [LinkedIn](https://si.linkedin.com/in/jaka-%C4%8Dibej-18575585) | [ResearchGate](https://www.researchgate.net/profile/Jaka-Cibej-2) -->
 
 ### Main Research Interests
 - corpus linguistics
