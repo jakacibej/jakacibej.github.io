@@ -2,9 +2,10 @@ Last update: 2025-08-30
 [Still under construction]  
 
 <!--![Image](jc_fri_profile.png)-->
-## About me
+### About me
 I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus and computational linguistics along with natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data.
-[SICRIS](https://cris.cobiss.net/ecris/si/sl/researcher/42448) | [Google Scholar](https://scholar.google.com/citations?user=n56k8E0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-3037-6848) | [LinkedIn](https://si.linkedin.com/in/jaka-%C4%8Dibej-18575585) | [ResearchGate](https://www.researchgate.net/profile/Jaka-Cibej-2)  
+
+<!--[SICRIS](https://cris.cobiss.net/ecris/si/sl/researcher/42448) | [Google Scholar](https://scholar.google.com/citations?user=n56k8E0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-3037-6848) | [LinkedIn](https://si.linkedin.com/in/jaka-%C4%8Dibej-18575585) | [ResearchGate](https://www.researchgate.net/profile/Jaka-Cibej-2)  -->
 
 ### Main Research Interests
 - corpus linguistics
@@ -34,7 +35,7 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 
 ### National projects
 
-#### Projects funded by the Slovenian Research Agency (ARRS)
+#### Projects funded by the Slovenian Research and Innovation Agency (ARIS)
 
 | **Duration**      | **Title** | **Website** |
 | 2022–present      | MEZZANINE - Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
@@ -56,7 +57,7 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 #### Projects funded by the University of Ljubljana
 
 | **Duration**      | **Title** | **Website** |
-| 2021–present   | ON - Online Notes: Upgrading a Machine Translation System for Learning Communities (and Special Needs Students) |  [\[LINK\]](https://www.cjvt.si/online-notes/) |
+| 2021–2024   | ON - Online Notes: Upgrading a Machine Translation System for Learning Communities (and Special Needs Students) |  [\[LINK\]](https://www.cjvt.si/online-notes/) |
 
 #### CLARIN.SI Projects
 
@@ -96,12 +97,19 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 | Collocations Dictionary of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/kolokacije/eng/) |
 | Gigafida Corpus of Written Standard Slovene | Co-editor  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
 
+<!--#### Datasets
+| **Dataset** | **Link** |
+|  | [\[LINK\]]() |-->
+
 #### Reviewer
 * International Journal of Lexicography
 * Slovenščina 2.0
+* Jezikoslovni zapiski
 * STRIDON: Journal of Studies in Translation and Interpreting
-* Language Technologies and Digital Humanities Conference (JT-DH)
+* Language Technologies and Digital Humanities Conference (JT-DH 2022, 2024)
 * Language Resources and Evaluation Conference (LREC)
+* 1st UniDive Training School (Technical University of Moldova, Chișinău, Moldova)
+* 2nd UniDive Training School (Yerevan State University, Yerevan, Armenia)
 
 <!--
 ### Publications
