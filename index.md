@@ -38,33 +38,33 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 #### Projects funded by the Slovenian Research and Innovation Agency (ARIS)
 
 | **Duration**      | **Title** | **Website** |
-| 2022–present      | MEZZANINE - Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
-| 2017–2020      | NSSSS - New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
-| 2017–2020      | KOLOS - Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
-| 2017–2020      | FRENK - Resources, Methods, and Tools for the Understanding, Identification, and Classification of Various Forms of Socially Unacceptable Discourse in the Information Society (J7-8280) | [\[LINK\]](https://nl.ijs.si/frenk/english/) |
-| 2016–2017 | KAS - Slovene Scientific Texts: Resources and Description (J6-7094) | [\[LINK\]](https://nl.ijs.si/kas/english/) |
-| 2014–2018 | JANES - Resources, Tools and Methods for the Research of Nonstandard Internet Slovene (J6-6842) | [\[LINK\]](https://nl.ijs.si/janes/english/) |
+| 2022–present      | MEZZANINE – Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
+| 2017–2020      | NSSSS – New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
+| 2017–2020      | KOLOS – Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
+| 2017–2020      | FRENK – Resources, Methods, and Tools for the Understanding, Identification, and Classification of Various Forms of Socially Unacceptable Discourse in the Information Society (J7-8280) | [\[LINK\]](https://nl.ijs.si/frenk/english/) |
+| 2016–2017 | KAS – Slovene Scientific Texts: Resources and Description (J6-7094) | [\[LINK\]](https://nl.ijs.si/kas/english/) |
+| 2014–2018 | JANES – Resources, Tools and Methods for the Research of Nonstandard Internet Slovene (J6-6842) | [\[LINK\]](https://nl.ijs.si/janes/english/) |
 
 #### Projects funded by the Ministry of Culture of the Republic of Slovenia
 
 | **Duration**      | **Title** | **Website** |
-| 2023–present      | SEMTEH - Interconnected Knowledge Databases for Semantic Technologies | - |
-| 2022–2023      | SLOKIT - CLARIN.SI Upgrade: Corpus Presenter and Text Analyzer | [\[LINK\]](https://slokit.ijs.si/) |
-| 2020–2023      | RSDO - Development of Slovene in a Digital Environment | [\[LINK\]](https://rsdo.slovenscina.eu/en) |
-| 2021–2022      | SLED - Monitor Corpus of Slovene and Monitoring Language Resources | [\[LINK\]](https://sled.ijs.si/) |
-| 2017–2018      | Propomenke - The Thesaurus of Modern Slovene: By the Community for the Community | [\[LINK\]](https://www.cjvt.si/promocija-sopomenk/) |
+| 2023–present      | SEMTEH – Interconnected Knowledge Databases for Semantic Technologies | - |
+| 2022–2023      | SLOKIT – CLARIN.SI Upgrade: Corpus Presenter and Text Analyzer | [\[LINK\]](https://slokit.ijs.si/) |
+| 2020–2023      | RSDO – Development of Slovene in a Digital Environment | [\[LINK\]](https://rsdo.slovenscina.eu/en) |
+| 2021–2022      | SLED – Monitor Corpus of Slovene and Monitoring Language Resources | [\[LINK\]](https://sled.ijs.si/) |
+| 2017–2018      | Propomenke – The Thesaurus of Modern Slovene: By the Community for the Community | [\[LINK\]](https://www.cjvt.si/promocija-sopomenk/) |
 
 #### Projects funded by the University of Ljubljana
 
 | **Duration**      | **Title** | **Website** |
-| 2021–2024   | ON - Online Notes: Upgrading a Machine Translation System for Learning Communities (and Special Needs Students) |  [\[LINK\]](https://www.cjvt.si/online-notes/) |
+| 2021–2024   | ON – Online Notes: Upgrading a Machine Translation System for Learning Communities (and Special Needs Students) |  [\[LINK\]](https://www.cjvt.si/online-notes/) |
 
 #### CLARIN.SI Projects
 
 | **Duration** | **Title** | **Website** |
 | 2022 | Compiling the Slovene SI-NLI Dataset for Natural Language Inference | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Ustvarjanje_slovenske_mnozice_SI-NLI_za_sklepanje_o_pomenskem_sosledju_besedil) |
 | 2018 | Accentuation of Sloleks | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Naglasevanje_leksikona_Sloleks) |
-| 2018 | LIST - A Tool for an Effective Analysis of Slovene Corpora | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Orodje_za_ucinkovito_analizo_slovenskih_korpusov) |
+| 2018 | LIST – A Tool for an Effective Analysis of Slovene Corpora | [\[LINK\]](https://www.clarin.si/info/storitve/projekti/#Orodje_za_ucinkovito_analizo_slovenskih_korpusov) |
 
 ### International Projects
 
@@ -72,7 +72,7 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 
 | **Duration**      | **Title** | **Website** |
 | 2018–2022 | ELEXIS – European Lexicographic Infrastructure | [\[LINK\]](https://elex.is/) |
-| 2016–2018 | MIME - Mobility and Inclusion in Multilingual Europe | [\[LINK\]](https://www.mime-project.org/) |
+| 2016–2018 | MIME – Mobility and Inclusion in Multilingual Europe | [\[LINK\]](https://www.mime-project.org/) |
 
 #### Bilateral Projects
 
@@ -83,9 +83,9 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 #### COST Actions
 
 | **Duration**  | **Title** | **Website** |
-| 2023–present | UniDive - Universality, diversity and idiosyncrasy in language technology (COST Action CA21167) | [\[LINK\]](https://www.cost.eu/actions/CA21167/) |
-| 2017–2021 | EnetCollect - The European Network for Combining Language Learning with Crowdsourcing Techniques (COST Action CA16105) | [\[LINK\]](http://enetcollect.eurac.edu/) |
-| 2017 | PARSEME - Parsing and Multi-Word Expressions. Towards Linguistic Precision and Computational Efficiency in Natural Language Processing (COST Action IC1207) | [\[LINK\]](https://typo.uni-konstanz.de/parseme/)
+| 2023–present | UniDive – Universality, diversity and idiosyncrasy in language technology (COST Action CA21167) | [\[LINK\]](https://www.cost.eu/actions/CA21167/) |
+| 2017–2021 | EnetCollect – The European Network for Combining Language Learning with Crowdsourcing Techniques (COST Action CA16105) | [\[LINK\]](http://enetcollect.eurac.edu/) |
+| 2017 | PARSEME – Parsing and Multi-Word Expressions. Towards Linguistic Precision and Computational Efficiency in Natural Language Processing (COST Action IC1207) | [\[LINK\]](https://typo.uni-konstanz.de/parseme/)
 
 ### Other Research Activities
 
