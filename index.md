@@ -56,8 +56,8 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 | 2017–2018      | Propomenke – The Thesaurus of Modern Slovene: By the Community for the Community | [\[LINK\]](https://www.cjvt.si/promocija-sopomenk/) |
 
 ### Projects funded by the Ministry of Higher Education, Science and Innovation of the Republic of Slovenia
-| **Duration**      | **Title** | **Website** |
-| 2023–present      | PoVeJMo – Adaptive Natural Language Processing with Large Language Models | [\[LINK\]](https://www.cjvt.si/povejmo/en/project/) |
+| **Duration** | **Title** | **Website** |
+| 2023–present | PoVeJMo – Adaptive Natural Language Processing with Large Language Models | [\[LINK\]](https://www.cjvt.si/povejmo/en/project/) |
 
 #### Projects funded by the University of Ljubljana
 
