@@ -3,7 +3,7 @@ Last update: 2025-08-30
 
 <!--![Image](jc_fri_profile.png)-->
 ### About me
-I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus and computational linguistics along with natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data.
+I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus linguistics and natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data, and compile language resources and datasets for Slovene and other languages. So far, I've worked in several different subfields, including computational morphology, digital lexicography, research on spoken language and computer-mediated communication, computational dialectometry, and quantitative syntax analysis.
 
 <!--[SICRIS](https://cris.cobiss.net/ecris/si/sl/researcher/42448) | [Google Scholar](https://scholar.google.com/citations?user=n56k8E0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-3037-6848) | [LinkedIn](https://si.linkedin.com/in/jaka-%C4%8Dibej-18575585) | [ResearchGate](https://www.researchgate.net/profile/Jaka-Cibej-2) -->
 
@@ -16,6 +16,11 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 - PhD in Translation Studies (2021), Faculty of Arts, University of Ljubljana (Supervisor: Darja Fišer, Co-supervisor: Vojko Gorjanc)
 - MA in Translation (2014), Faculty of Arts, University of Ljubljana (Supervisor: Silvana Orel Kos)
 - BA in Interlingual Communication (2009), Faculty of Arts, University of Ljubljana (Supervisor: Silvana Orel Kos)
+
+#### Coding
+- Python
+- R
+- I've also used some Javascript on occasion =)
 
 #### Workshops and Summer Schools
 - 29th European Summer School in Logic, Language and Information (ESSLLI) 2017, Toulouse, France [\[LINK\]](https://www.irit.fr/esslli2017/)
@@ -83,8 +88,8 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 #### Bilateral Projects
 
 | **Duration**      | **Title** | **Website** |
-| 2023–present | SI-HR: Automatic Identification of Semantic Relations in Figurative Context in Croatian and Slovene | - |
-| 2021–present | SI-IN: Cross-lingual Knowledge Transfer for Social Media Analysis in Less-Resourced Languages During COVID-19 | - |
+| 2023–2025 | SI-HR: Automatic Identification of Semantic Relations in Figurative Context in Croatian and Slovene | - |
+| 2021–2023 | SI-IN: Cross-lingual Knowledge Transfer for Social Media Analysis in Less-Resourced Languages During COVID-19 | - |
 
 #### COST Actions
 
@@ -99,6 +104,7 @@ I'm a researcher in computational linguistics based in Slovenia. My main researc
 
 | **Resource**  | **Role** | **Link** |
 | Sloleks Morphological Lexicon of Slovene | Lead Editor | [\[LINK\]](https://viri.cjvt.si/sloleks/eng/) |
+| Digital Dictionary Database of Slovene | Co-editor | [\[LINK\]](https://wiki.cjvt.si/books/digital-dictionary-database-of-slovene) |
 | The Thesaurus of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/sopomenke/eng/) |
 | Collocations Dictionary of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/kolokacije/eng/) |
 | Gigafida Corpus of Written Standard Slovene | Co-editor  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
@@ -131,12 +137,12 @@ A selected list of datasets I've authored or contributed to is shown below. Plea
 * 1st UniDive Training School (Technical University of Moldova, Chișinău, Moldova)
 * 2nd UniDive Training School (Yerevan State University, Yerevan, Armenia)
 
-<!--
 ### Publications
 
-[Link to COBISS]
+For my complete and up-to-date bibliography, please check [COBISS](https://bib.cobiss.net/bibliographies/si/webBiblio/bib301_20250831_164052_36914.html).
 
 
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jakacibej/jakacibej.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
