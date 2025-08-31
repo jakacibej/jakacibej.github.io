@@ -3,7 +3,7 @@ Last update: 2025-08-30
 ### About me
 I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus linguistics and natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data, and compile language resources and datasets for Slovene and other languages.
 
-So far, I've worked in several different subfields, including computational morphology, digital lexicography, research on spoken language and computer-mediated communication, computational dialectometry, quantitative syntax analysis, and large language model development (particularly through the compilation of instruction-tuning datasets).
+So far, I've worked in several different subfields, including computational morphology, digital lexicography, research on spoken language and computer-mediated communication, computational dialectometry, quantitative syntax analysis, computational phraseology, and large language model development (particularly through the compilation of instruction-tuning datasets).
 
 I'm strongly in favor of empirical and data-driven research that brings about open-access and directly applicable results to the benefit of everyone.
 
