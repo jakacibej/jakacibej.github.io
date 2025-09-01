@@ -107,8 +107,10 @@ I'm strongly in favor of empirical and data-driven research that brings about op
 | Digital Dictionary Database of Slovene | Co-editor | [\[LINK\]](https://wiki.cjvt.si/books/digital-dictionary-database-of-slovene) |
 | The Thesaurus of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/sopomenke/eng/) |
 | Collocations Dictionary of Modern Slovene | Co-editor | [\[LINK\]](https://viri.cjvt.si/kolokacije/eng/) |
-| Gigafida Corpus of Written Standard Slovene | Co-editor  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
-
+| Gigafida Corpus of Written Standard Slovene | Co-author  | [\[LINK\]](https://viri.cjvt.si/gigafida/) |
+| JANES Corpus of Internet Slovene | Co-author | [\[LINK\]](https://www.clarin.si/ske/#dashboard?corpname=janes) |
+| Trendi Monitor Corpus of Slovene | Co-author | [\[LINK\]](http://hdl.handle.net/11356/2044) |
+ 
 #### Datasets
 A selected list of datasets I've authored or contributed to is shown below. Please check [CLARIN.SI](https://www.clarin.si/repository/xmlui/discover?filtertype=author&filter_relational_operator=equals&filter=%C4%8Cibej%2C+Jaka) for more.
 
