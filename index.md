@@ -43,7 +43,7 @@ I'm strongly in favor of empirical and data-driven research that brings about op
 #### Projects funded by the Slovenian Research and Innovation Agency (ARIS)
 
 | **Duration**      | **Title** | **Website** |
-| 2024–present      | LLM4DH – Large Language Models for Digital Humanities (GC-0002) | [\[LINK\]](https://www.cjvt.si/llm4dh/) |
+| 2024–present      | LLM4DH – Large Language Models for Digital Humanities (GC-0002) | <a href="https://www.cjvt.si/llm4dh/" target="_blank">🔗</a> |
 | 2022–present      | MEZZANINE – Basic Research for the Development of Spoken Language Resources and Speech Technologies for the Slovenian Language (J7-4642) | [\[LINK\]](https://mezzanine.um.si/en/about-us/) |
 | 2017–2020      | NSSSS – New Grammar of Contemporary Standard Slovene: Sources and Methods (J6-8256) | [\[LINK\]](https://slovnica.ijs.si/?lang=en) |
 | 2017–2020      | KOLOS – Collocations as a Basis for Language Description: Semantic and Temporal Perspectives (J6-8255) | [\[LINK\]](https://www.cjvt.si/kolos/en/) |
