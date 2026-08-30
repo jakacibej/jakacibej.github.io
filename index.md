@@ -32,7 +32,7 @@ I'm strongly in favor of empirical and data-driven research that brings about op
 
 ### Affiliations
 
-| ** Period ** | **Institution** |
+| **Period** | **Institution** |
 | --- | --- |
 | 2017–present | Centre for Language Resources and Technologies, University of Ljubljana, Slovenia |
 | 2014–present | Faculty of Arts, University of Ljubljana, Slovenia |
@@ -147,16 +147,17 @@ A selected list of datasets I've authored or contributed to is shown below. Plea
 | Training corpus SUK 1.1 | <a href="http://hdl.handle.net/11356/1959" target="_blank">🔗</a> |
 | Slovene instruction-following safety dataset for large language models GaMS-Instruct-SAFE 0.5 | <a href="http://hdl.handle.net/11356/2218" target="_blank">🔗</a> |
 | List of headword candidates for the Dutch-Slovene Dictionary nl-sl-Lex 1.0 | <a href="http://hdl.handle.net/11356/2220" target="_blank">🔗</a> |
+| Multiword expressions lexicon extracted from the Gigafida 2.1 corpus | <a href="http://hdl.handle.net/11356/1421" target="_blank">🔗</a>
 
 ---
 #### Reviewer
 
 ##### Journals
-* <a href="https://academic.oup.com/ijl" target="_blank">International Journal of Lexicography</a> 
-* <a href="https://journals.uni-lj.si/slovenscina2" target="_blank">Slovenščina 2.0</a>
-* <a href="https://ojs.zrc-sazu.si/jz" target="_blank">Jezikoslovni zapiski</a>
-* <a href="https://journals.uni-lj.si/stridon" target="_blank">STRIDON: Journal of Studies in Translation and Interpreting</a>
-* <a href="https://infoteka.bg.ac.rs/ojs/index.php/Infoteka" target="_blank">Infotheca Journal for Digital Humanities</a>
+* International Journal of Lexicography <a href="https://academic.oup.com/ijl" target="_blank">🔗</a> 
+* Slovenščina 2.0: Empirical, Applied and Interdisciplinary Research <a href="https://journals.uni-lj.si/slovenscina2" target="_blank">🔗</a>
+* Jezikoslovni zapiski <a href="https://ojs.zrc-sazu.si/jz" target="_blank">🔗</a>
+* STRIDON: Journal of Studies in Translation and Interpreting <a href="https://journals.uni-lj.si/stridon" target="_blank">🔗</a>
+* Infotheca: Journal for Digital Humanities <a href="https://infoteka.bg.ac.rs/ojs/index.php/Infoteka" target="_blank"></a>
 
 ##### Conferences
 * JT-DH – Language Technologies and Digital Humanities Conference (<a href="https://www.sdjt.si/wp/dogodki/konference/jtdh-2022-english/" target="_blank">2022</a>, <a href="https://www.sdjt.si/wp/conferences/jtdh-2024-en/" target="_blank">2024</a>, <a href="https://www.sdjt.si/wp/jtdh-2026-en/" target="_blank">2026</a>)
@@ -170,14 +171,13 @@ A selected list of datasets I've authored or contributed to is shown below. Plea
 * 2nd UniDive Training School (Yerevan State University, Yerevan, Armenia) <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:2nd_unidive_training_school" target="_blank">🔗</a>
 
 ---
-### (Co-)Supervisor
+#### (Co-)Supervisor
 * Egidij Grahek (2026): _A Proposal for a Corpus-Based Update of the Dutch-Slovene Dictionary_; BA Thesis; Department of German, Dutch and Swedish, Faculty of Arts, University of Ljubljana (Supervisor: Anita Srebnik, Co-supervisor: Jaka Čibej)
 
 ---
 ### Publications
 
 For my complete bibliography, please check <a href="https://bib.cobiss.net/bibliographies/si/webBiblio/bib301_20260829_225549_36914.html" target="_blank">COBISS</a>.
-
 
 <!--
 <a href="" target="_blank">🔗</a>
