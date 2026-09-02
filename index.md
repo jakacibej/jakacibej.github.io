@@ -1,4 +1,4 @@
-Last update: 2026-08-29
+Last update: 2026-09-02
 
 ### About me
 I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus linguistics and natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data, and compile language resources and datasets for Slovene and other languages.
@@ -157,7 +157,7 @@ A selected list of datasets I've authored or contributed to is shown below. Plea
 * Slovenščina 2.0: Empirical, Applied and Interdisciplinary Research <a href="https://journals.uni-lj.si/slovenscina2" target="_blank">🔗</a>
 * Jezikoslovni zapiski <a href="https://ojs.zrc-sazu.si/jz" target="_blank">🔗</a>
 * STRIDON: Journal of Studies in Translation and Interpreting <a href="https://journals.uni-lj.si/stridon" target="_blank">🔗</a>
-* Infotheca: Journal for Digital Humanities <a href="https://infoteka.bg.ac.rs/ojs/index.php/Infoteka" target="_blank"></a>
+* Infotheca: Journal for Digital Humanities <a href="https://infoteka.bg.ac.rs/ojs/index.php/Infoteka" target="_blank">🔗</a>
 
 ##### Conferences
 * JT-DH – Language Technologies and Digital Humanities Conference (<a href="https://www.sdjt.si/wp/dogodki/konference/jtdh-2022-english/" target="_blank">2022</a>, <a href="https://www.sdjt.si/wp/conferences/jtdh-2024-en/" target="_blank">2024</a>, <a href="https://www.sdjt.si/wp/jtdh-2026-en/" target="_blank">2026</a>)
@@ -165,10 +165,16 @@ A selected list of datasets I've authored or contributed to is shown below. Plea
 * DIGIN – Digital Inclusivity (<a href="https://digin.um.si/" target="_blank">2024</a>, <a href="https://www.digin.si/pretekle-konference/digin-2025/" target="_blank">2025</a>)
 * JuDIG – South Slavic Languages in the Digital Environment (<a href="https://judig.jerteh.rs/archive/2024/index.php" target="_blank">2024</a>, <a href="https://judig.jerteh.rs/" target="_blank">2026</a>)
 * PLM – Poznań Linguistic Meeting (<a href="https://wa.amu.edu.pl/plm/2025/Home" target="_blank">2026</a>)
+* GWC – Global Wordnet Conference (<a href="https://cltl.github.io/GWC2027/" target="_blank">2027</a>)
 
 ##### Training Schools
 * 1st UniDive Training School (Technical University of Moldova, Chișinău, Moldova) <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school" target="_blank">🔗</a>
 * 2nd UniDive Training School (Yerevan State University, Yerevan, Armenia) <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:2nd_unidive_training_school" target="_blank">🔗</a>
+
+---
+#### Organizer
+* SIGLEX-MWE 2027 <a href="https://multiword.org/" target="_blank">🔗</a>
+* EURALEX 2018 <a href="https://euralex2018.cjvt.si/" target="_blank">🔗</a>
 
 ---
 #### (Co-)Supervisor
