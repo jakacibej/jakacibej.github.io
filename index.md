@@ -1,4 +1,4 @@
-Last update: 2026-09-02
+Last update: 2026-09-30
 
 ### About me
 I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus linguistics and natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data, and compile language resources and datasets for Slovene and other languages.
@@ -34,11 +34,11 @@ I'm strongly in favor of empirical and data-driven research that brings about op
 
 | **Period** | **Institution** |
 | --- | --- |
-| 2017–present | Centre for Language Resources and Technologies, University of Ljubljana, Slovenia |
-| 2014–present | Faculty of Arts, University of Ljubljana, Slovenia |
-| 2017–present | Faculty of Computer and Information Science, University of Ljubljana, Slovenia |
-| 2017–present | Jožef Stefan Institute, Ljubljana, Slovenia        |
-| 2017–2018 | Trojina, Institute for Applied Slovene Studies, Ljubljana, Slovenia        |
+| 2017–present | Centre for Language Resources and Technologies, University of Ljubljana, Slovenia <a href="https://www.cjvt.si" target="_blank">🔗</a> |
+| 2014–present | Faculty of Arts, University of Ljubljana, Slovenia <a href="https://www.ff.uni-lj.si" target="_blank">🔗</a> |
+| 2017–present | Faculty of Computer and Information Science, University of Ljubljana, Slovenia <a href="https://www.fri.uni-lj.si" target="_blank">🔗</a> |
+| 2017–present | Department for Artificial Intelligence (E3), Jožef Stefan Institute, Ljubljana, Slovenia <a href="https://www.ijs.si/ijsw/Artificial%20Intelligence%20E3" target="_blank">🔗</a>       |
+| 2017–2018 | Trojina, Institute for Applied Slovene Studies, Ljubljana, Slovenia  <a href="https://trojina.si" target="_blank">🔗</a>     |
 
 ### National projects
 
