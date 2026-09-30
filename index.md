@@ -173,12 +173,13 @@ A selected list of datasets I've authored or contributed to is shown below. Plea
 
 ---
 #### Organizer
-* SIGLEX-MWE 2027 <a href="https://multiword.org/" target="_blank">🔗</a>
+* SIGLEX-MWE 2027 <a href="https://multiword.org/mwe2027/" target="_blank">🔗</a>
+* UniDive 4th General Meeting <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:general_meetings:4th_unidive_general_meeting" target="_blank">🔗</a>
 * EURALEX 2018 <a href="https://euralex2018.cjvt.si/" target="_blank">🔗</a>
 
 ---
 #### (Co-)Supervisor
-* Egidij Grahek (2026): _A Proposal for a Corpus-Based Update of the Dutch-Slovene Dictionary_; BA Thesis; Department of German, Dutch and Swedish, Faculty of Arts, University of Ljubljana (Supervisor: Anita Srebnik, Co-supervisor: Jaka Čibej)
+* Egidij Grahek (2026): _Ein Vorschlag für eine korpusbasierte Aktualisierung des Niederländisch-Slowenischen Wörterbuchs_ // _A Proposal for a Corpus-Based Update of the Dutch-Slovene Dictionary_; BA Thesis; Department of German, Dutch and Swedish, Faculty of Arts, University of Ljubljana (Supervisor: Anita Srebnik, Co-supervisor: Jaka Čibej) <a href="http://hdl.handle.net/20.500.12556/RUL-188532" target="_blank">🔗</a>.
 
 ---
 ### Publications
