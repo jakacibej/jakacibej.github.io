@@ -1,4 +1,4 @@
-Last update: 2026-09-30
+Latest update: 2026-11-09
 
 ### About me
 I'm a researcher in computational linguistics based in Slovenia. My main research areas are corpus linguistics and natural language processing. I focus on implementing quantitative and statistical methods in the research of linguistic data, and compile language resources and datasets for Slovene and other languages.
@@ -8,8 +8,8 @@ So far, I've worked in several different subfields, including computational morp
 I'm strongly in favor of empirical and data-driven research that brings about open-access and directly applicable results to the benefit of everyone.
 
 ### Main Research Interests
-- corpus linguistics
 - computational linguistics
+- corpus linguistics
 - natural language processing
 
 ### Education
@@ -23,12 +23,12 @@ I'm strongly in favor of empirical and data-driven research that brings about op
 - I've also used some Javascript on occasion =)
 
 #### Workshops and Summer Schools
-- 29th European Summer School in Logic, Language and Information (ESSLLI) 2017, Toulouse, France [\[LINK\]](https://www.irit.fr/esslli2017/)
-- ReLDI Seminar on Experimental and Corpus Methods in Linguistic Research, 2016, Belgrade, Serbia [\[LINK\]](https://reldi.spur.uzh.ch/hr-sr/seminari/seminar-1/)
-- 28th European Summer School in Logic, Language and Information (ESSLLI) 2016, Bolzano, Italy [\[LINK\]](https://esslli2016.unibz.it/)
+- 29th European Summer School in Logic, Language and Information (ESSLLI) 2017, Toulouse, France <a href="https://www.irit.fr/esslli2017/" target="_blank">🔗</a>
+- ReLDI Seminar on Experimental and Corpus Methods in Linguistic Research, 2016, Belgrade, Serbia <a href="https://reldi.spur.uzh.ch/hr-sr/seminari/seminar-1/" target="_blank">🔗</a>
+- 28th European Summer School in Logic, Language and Information (ESSLLI) 2016, Bolzano, Italy <a href="https://esslli2016.unibz.it/" target="_blank">🔗</a>
 - Quantitative Methods in Humanistic Studies, 2016, Copenhagen, Denmark
-- Lancaster Summer Schools in Corpus Linguistics, 2016, Lancaster, United Kingdom [\[LINK\]](https://wp.lancs.ac.uk/corpussummerschools/)
-- 27th European Summer School in Logic, Language and Information (ESSLLI) 2015, Barcelona, Spain [\[LINK\]](http://www.esslli2015.org/)
+- Lancaster Summer Schools in Corpus Linguistics, 2016, Lancaster, United Kingdom <a href="https://wp.lancs.ac.uk/corpussummerschools/" target="_blank">🔗</a>
+- 27th European Summer School in Logic, Language and Information (ESSLLI) 2015, Barcelona, Spain <a href="http://www.esslli2015.org/" target="_blank">🔗</a>
 
 ### Affiliations
 
@@ -115,39 +115,51 @@ I'm strongly in favor of empirical and data-driven research that brings about op
 
 #### Selected Contributions to Slovene Language Resources
 
-| **Resource**  | **Role** | **Link** |
+| **Resource**  | **Role** | **Links** |
 | --- | --- | --- |
-| Sloleks Morphological Lexicon of Slovene | Lead Editor | <a href="https://viri.cjvt.si/sloleks/eng/" target="_blank">🔗</a> |
+| Sloleks Morphological Lexicon of Slovene | Lead Editor | <a title="Link to Interface" href="https://viri.cjvt.si/sloleks/eng/" target="_blank">🌐</a>, <a title="Link to Data" href="http://hdl.handle.net/11356/1230" target="_blank">⚙️ (2.0)</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/1745" target="_blank">⚙️ (3.0)</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/2080" target="_blank">⚙️ (3.1)</a> |
 | Digital Dictionary Database of Slovene | Co-editor | <a href="https://wiki.cjvt.si/books/digital-dictionary-database-of-slovene" target="_blank">🔗</a> |
-| The Thesaurus of Modern Slovene | Co-editor | <a href="https://viri.cjvt.si/sopomenke/eng/" target="_blank">🔗</a> |
-| Collocations Dictionary of Modern Slovene | Co-editor | <a href="https://viri.cjvt.si/kolokacije/eng/" target="_blank">🔗</a> |
-| Gigafida Corpus of Written Standard Slovene | Co-author  | <a href="https://viri.cjvt.si/gigafida/" target="_blank">🔗</a> |
-| JANES Corpus of Internet Slovene | Co-author | <a href="https://www.clarin.si/ske/#dashboard?corpname=janes" target="_blank">🔗</a> |
+| The Thesaurus of Modern Slovene | Co-editor | <a href="https://viri.cjvt.si/sopomenke/eng/" target="_blank">🌐</a> |
+| Collocations Dictionary of Modern Slovene | Co-editor | <a href="https://viri.cjvt.si/kolokacije/eng/" target="_blank">🌐</a> |
+| Gigafida Corpus of Written Standard Slovene | Co-author  | <a href="https://viri.cjvt.si/gigafida/" target="_blank">🌐</a> |
+| JANES Corpus of Internet Slovene | Co-author | <a href="https://www.clarin.si/ske/#dashboard?corpname=janes" target="_blank">🌐</a> |
 | Trendi Monitor Corpus of Slovene | Co-author | <a href="http://hdl.handle.net/11356/2044" target="_blank">🔗</a> |
 
 #### Datasets
 A selected list of datasets I've authored or contributed to is shown below. Please check <a href="https://www.clarin.si/repository/xmlui/discover?filtertype=author&filter_relational_operator=equals&filter=%C4%8Cibej%2C+Jaka" target="_blank">CLARIN.SI</a> for more.
 
-| **Dataset** | **Link** |
+<!--
+🌐 Link to Webpage/Interface
+⚙️ Data
+🛠️ 🔧 Tools / Data
+📜 Guidelines / Instructions for Use
+💻 🧪 Code/Software
+🤖 Models
+🔗 General Link
+📝 Paper
+-->
+
+| **Dataset** | **Links** |
 | --- | --- |
-| Open Slovene WordNet OSWN 1.0 | <a href="http://hdl.handle.net/11356/1888" target="_blank">🔗</a> |
-| Parallel sense-annotated corpus ELEXIS-WSD 2.0 | <a href="http://hdl.handle.net/11356/2101" target="_blank">🔗</a> |
-| Slovene Natural Language Inference Dataset SI-NLI | <a href="http://hdl.handle.net/11356/1707" target="_blank">🔗</a> |
-| English translation of the Slovene Natural Language Inference Dataset SI-NLI-en 1.0 | <a href="http://hdl.handle.net/11356/1934" target="_blank">🔗</a> |
-| Global PIQA – A commonsense reasoning benchmark for over 100 languages | <a href="https://github.com/mrlbenchmarks/global-piqa" target="_blank">🔗</a> |
-| PARSEME 2.0 – Annotated corpora and tools of the PARSEME Shared Task: Subtask 1, MWE Identification | <a href="http://hdl.handle.net/11372/LRT-6123" target="_blank">🔗</a> |
-| "Choice of plausible alternatives" datasets in South Slavic dialects DIALECT-COPA | <a href="http://hdl.handle.net/11356/1766" target="_blank">🔗</a> |
-| Slovene instruction-following dataset for large language models GaMS-Instruct-GEN 1.0 | <a href="http://hdl.handle.net/11356/1971" target="_blank">🔗</a> |
-| List of word relations from the Sloleks 2.0 lexicon 1.1 | <a href="http://hdl.handle.net/11356/1986" target="_blank">🔗</a> |
-| Dataset of Slovene word formation trees ArboSloleks 1.0 | <a href="http://hdl.handle.net/11356/2000" target="_blank">🔗</a> |
-| Dataset of Annotated Slovene Words with Pre-Consonant L ILS 1.0 | <a href="http://hdl.handle.net/11356/2025" target="_blank">🔗</a> |
-| Lists of Slovene accentuated units SNES 1.0 | <a href="http://hdl.handle.net/11356/2003" target="_blank">🔗</a> | 
-| List of potentially non-standard vocabulary candidates MEZZANINE-NstdLex 1.1 | <a href="http://hdl.handle.net/11356/2357" target="_blank">🔗</a> |
-| Training corpus of spoken Slovenian ROG 1.1 | <a href="http://hdl.handle.net/11356/2062" target="_blank">🔗</a> |
-| Training corpus SUK 1.1 | <a href="http://hdl.handle.net/11356/1959" target="_blank">🔗</a> |
-| Slovene instruction-following safety dataset for large language models GaMS-Instruct-SAFE 0.5 | <a href="http://hdl.handle.net/11356/2218" target="_blank">🔗</a> |
-| List of headword candidates for the Dutch-Slovene Dictionary nl-sl-Lex 1.0 | <a href="http://hdl.handle.net/11356/2220" target="_blank">🔗</a> |
-| Multiword expressions lexicon extracted from the Gigafida 2.1 corpus | <a href="http://hdl.handle.net/11356/1421" target="_blank">🔗</a>
+| Open Slovene WordNet OSWN | <a title="Link to Data" href="http://hdl.handle.net/11356/1888" target="_blank">⚙️ (1.0)</a> |
+| Parallel sense-annotated corpus ELEXIS-WSD | <a title="Link to Data" href="http://hdl.handle.net/11356/1674" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="https://elex.link/elex2021/wp-content/uploads/2021/08/eLex_2021_22_pp377-395.pdf" target="_blank">📝</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/1842" target="_blank">⚙️ (1.1)</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/2022" target="_blank">⚙️ (1.2)</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/2029" target="_blank">⚙️ (1.3)</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/2101" target="_blank">⚙️ (2.0)</a>, <a title="Link to Paper" href="https://zenodo.org/records/21886571/files/16_Cibej_etal_Extension.pdf" target="_blank">📝</a> |
+| Slovene Natural Language Inference Dataset SI-NLI | <a title="Link to Data" href="http://hdl.handle.net/11356/1707" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="https://aclanthology.org/2024.lrec-main.1294/" target="_blank">📝</a> |
+| English translation of the Slovene Natural Language Inference Dataset SI-NLI-en | <a title="Link to Data" href="http://hdl.handle.net/11356/1934" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="https://aclanthology.org/2024.lrec-main.1294/" target="_blank">📝</a> |
+| Global PIQA – A commonsense reasoning benchmark for over 100 languages | <a title="Link to Data" href="https://github.com/mrlbenchmarks/global-piqa" target="_blank">⚙️</a>, <a title="Link to Paper" href="https://arxiv.org/abs/2510.24081" target="_blank">📝</a> |
+| "Choice of plausible alternatives" datasets in South Slavic dialects DIALECT-COPA | <a title="Link to Data" href="http://hdl.handle.net/11356/1766" target="_blank">⚙️</a>, <a title="Link to Paper" href="https://aclanthology.org/2024.vardial-1.7/" target="_blank">📝</a> |
+| PARSEME – Annotated corpora and tools of the PARSEME Shared Task: Subtask 1, MWE Identification | <a title="Link to Data" href="http://hdl.handle.net/11372/LRT-6123" target="_blank">⚙️ (2.0)</a>, <a title="Link to Paper" href="https://aclanthology.org/2026.mwe-1.33/" target="_blank">📝</a> |
+| Data for the Par-PARSEME multilingual shared task (SemEval 2027) | <a title="Link to Website" href="https://unidive.lisn.upsaclay.fr/doku.php?id=other-events%3Apar-parseme" target="_blank">🌐</a>, <a title="Link to Data" href="https://gitlab.com/parseme/sharedtask-data/-/tree/master/par-parseme?ref_type=heads" target="_blank">⚙️</a> |
+| Multiword expressions lexicon extracted from the Gigafida 2.1 corpus | <a title="Link to Data" href="http://hdl.handle.net/11356/1421" target="_blank">⚙️</a> |
+| List of word relations from the Sloleks 2.0 lexicon | <a title="Link to Data" href="http://hdl.handle.net/11356/1386" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="https://ebooks.uni-lj.si/ZalozbaUL/catalog/view/325/477/7316" target="_blank">📝</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/1986" target="_blank">⚙️ (1.1)</a> |
+| Dataset of Slovene word formation trees ArboSloleks | <a title="Link to Data" href="http://hdl.handle.net/11356/2000" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="http://hdl.handle.net/20.500.12556/RUL-180779" target="_blank">📝</a> |
+| Dataset of Annotated Slovene Words with Pre-Consonant L ILS | <a title="Link to Data" href="http://hdl.handle.net/11356/2025" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="https://doi.org/10.3986/JZ.31.1.03" target="_blank">📝</a>, <a title="Link to Paper" href="https://aile3.ijs.si/dunja/SiKDD2025/Papers/IS2024_-_SIKDD_2025_paper_1.pdf" target="_blank">📝</a> |
+| Lists of Slovene accentuated units SNES | <a title="Link to Data" href="http://hdl.handle.net/11356/2003" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="http://hdl.handle.net/20.500.12556/RUL-175479" target="_blank">📝</a> |
+| List of potentially non-standard vocabulary candidates MEZZANINE-NstdLex | <a title="Link to Data" href="http://hdl.handle.net/11356/2084" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="http://hdl.handle.net/20.500.12556/RUL-189753" target="_blank">📝</a> \| <a href="http://hdl.handle.net/11356/2357" target="_blank">⚙️ (1.1)</a> |
+| Training corpus of spoken Slovenian ROG | <a title="Link to Data" href="http://hdl.handle.net/11356/2062" target="_blank">⚙️ (1.1)</a>, <a title="Link to Paper" href="https://doi.org/10.63317/44np3dvumisj" target="_blank">📝</a> |
+| Training corpus SUK | <a title="Link to Data" href="http://hdl.handle.net/11356/1747" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="https://aclanthology.org/2024.lrec-main.1340/" target="_blank">📝</a> \| <a title="Link to Data" href="http://hdl.handle.net/11356/1959" target="_blank">⚙️ (1.1)</a> |
+| List of headword candidates for the Dutch-Slovene Dictionary nl-sl-Lex | <a title="Link to Data" href="http://hdl.handle.net/11356/2220" target="_blank">⚙️ (1.0)</a>, <a title="Link to Paper" href="http://hdl.handle.net/20.500.12556/RUL-188532" target="_blank">📝</a> |
+| Slovene instruction-following safety dataset for large language models GaMS-Instruct-SAFE | <a title="Link to Data" href="http://hdl.handle.net/11356/2218" target="_blank">⚙️ (0.5)</a>, <a title="Link to Paper" href="http://hdl.handle.net/20.500.12556/RUL-164271" target="_blank">📝</a> |
+| Slovene instruction-following dataset for large language models GaMS-Instruct-GEN | <a title="Link to Data" href="http://hdl.handle.net/11356/1971" target="_blank">⚙️ (1.0)</a> |
 
 ---
 #### Reviewer
